@@ -1,8 +1,8 @@
-### Olá 👋
+### Olá! Me chamo Cleberte Rodrigues 👋
 
 # Biografia
 
-Estudo desenvolvimento a 8 meses, possuo conhecimentos com HTML,CSS, JS, PHP, PYTHON, tenho alguns projetos pessoais para fins de aprendizado e colaboração. Atualmente estou em aprendizado do React.JS e preparando projetos para fins de estudo.
+Sou estudante na área de programação a pouco tempo, atualmente tenho conhecimentos de HTML, CSS, JS e estou iniciando meus estudos com ReactJs, estudo no meu tempo livre, sempre aperfeiçoando e criando novos projetos para aprendizagem e aumento de conhecimento.
 
 <div align="center">
   <a href="https://github.com/cleberte88">
