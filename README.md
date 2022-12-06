@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-### Olá! Me chamo Cleberte Rodrigues 👋
+## Hi! My name is Cleberte Rodrigues 👋
 
-# Biografia
+# Biography
 
-Sou estudante na área de programação a pouco tempo, atualmente tenho conhecimentos de HTML, CSS, JS e estou iniciando meus estudos com ReactJs, estudo no meu tempo livre, sempre aperfeiçoando e criando novos projetos para aprendizagem e aumento de conhecimento.
+I'm a student in the programming area for a short time, currently I have knowledge of HTML, CSS, JS and I'm starting my studies with ReactJs, I study in my spare time, always improving and creating new projects for learning and increasing knowledge.
 
 <div align="center">
   <a href="https://github.com/cleberte88">
@@ -14,6 +14,8 @@ Sou estudante na área de programação a pouco tempo, atualmente tenho conhecim
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleberte88&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+  
+# Languages of my knowledge👨‍💻
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,6 +27,6 @@ Sou estudante na área de programação a pouco tempo, atualmente tenho conhecim
   
 ![Snake animation](https://github.com/cleberte88/cleberte88/blob/output/github-contribution-grid-snake.svg)
   
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
