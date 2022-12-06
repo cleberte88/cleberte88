@@ -1,4 +1,4 @@
-<p align="center">
+------<p align="center">
   <img src="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
@@ -14,7 +14,7 @@ Sou estudante na área de programação a pouco tempo, atualmente tenho conhecim
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleberte88&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
