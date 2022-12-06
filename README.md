@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 ### Olá! Me chamo Cleberte Rodrigues 👋
 
 # Biografia
@@ -20,3 +24,7 @@ Sou estudante na área de programação a pouco tempo, atualmente tenho conhecim
   ##
   
 ![Snake animation](https://github.com/cleberte88/cleberte88/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
